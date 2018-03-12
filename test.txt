@@ -1,2 +1,6 @@
 This is a test file 
-try to create more conflicts
+<<<<<<< HEAD
+try to create more conflicts // try to create conflict
+
+
+
